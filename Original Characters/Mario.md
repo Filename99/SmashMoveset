@@ -86,3 +86,24 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
 * Up tilt:
     * Up tilt has an altered animation with the spinning uppercut starting from a higher and closer position, noticeably reducing its range in front of Mario, to the point it can no longer hit most characters on the ground unless they are very close.
     * Its animation has been reversed, with Mario spinning towards the screen instead of away from it.
+* Down tilt:
+    * Down tilt's sweetspot takes priority over the sourspot.
+    * The sweetspot is slightly smaller (3.5u → 3.2u).
+    * Its animation has been reversed, with Mario spinning towards the screen instead of away from it.
+* Dash attack:
+    * Dash attack's hitboxes are placed farther from Mario (Z offset: 4.4u/4u → 5.4u/4.9u), improving its horizontal range.
+    * It has gained a shieldstun multiplier of 1.875×, which combined with the increased shieldstun for ground attacks makes it safer on shield.
+    * The clean hit launches at a lower angle (60° → 50°), allowing it to KO more effectively near edges.
+    * The late hit has a slightly bigger hitbox (2.6u → 2.7u).
+    * It has a different animation where Mario's head is positioned higher, his legs extend farther from him, and he gets up during the ending lag instead of staying sit. This prevents him from sliding under certain attacks, and makes him easier to hit overall.
+    * The late hit launches opponents away from Mario rather than towards him (110° → 48°), hindering its combo potential despite its lower knockback scaling (43 → 30), and preventing it from stage spiking opponents below edges.
+    * It has a higher hitlag multiplier (1× → 1.25×).
+* Forward smash:
+    * Forward smash deals consistent damage across all angles (14%/17% (forward), 14.7%/17.85% (up), 14.42%/17.51% (down) → 14.7%/17.8% (all)), slightly increasing it overall.
+    * The sourspot has slightly increased knockback scaling (103 → 105) for all angles, while the sweetspot does when angled up (99 → 101) and angled down (99 → 100). Combined with the increased damage, this slighty improves its KO potential.
+* Up smash:
+    * Up smash's animation has been reversed, with Mario facing toward the screen rather than away from it.
+* Down smash:
+    * Down smash's animation has been altered, resembling both the Sweep Kick move from Super Mario 64, and the break dance Mario performs on the cover of Dance Dance Revolution: Mario Mix.
+
+## Aerial attacks
