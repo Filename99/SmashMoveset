@@ -74,3 +74,8 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
     * The first two hits transition into the subsequent hits faster (frame 8 → 5 (hit 1), frame 7 → 6 (hit 2)).
     * The third hit comes out faster (frame 7 → 3) and goes higher, allowing it to connect better from the first two hits.
         * However, its total duration remains unchanged, giving it more ending lag.
+    * The third hit has increased base knockback (45 → 60).
+    * All hits have a higher hitlag multiplier (1× → 1.8× (hit 1), 1.2× (hit 2), 2× (hit 3)), giving opponents more time to SDI each hit and DI the last hit.
+    * The first two hits have altered damage values (2.5% → 2.2% (hit 1), 1.5% → 1.7% (hit 2)), resulting in the move dealing slightly less damage in total (8% → 7.9%).
+    * The first and third hits have smaller hitboxes (3u/1.5u/4u → 1.2u/1.5u/1.8u (hit 1), 5u/2.5u/2.5u → 4.3u/2.5u/2.6u (hit 3)).
+    * The first two hits no longer use set knockback (15/10/15 set/100 scaling → 20/15 base/50/33/20 scaling (hit 1), 18/15/25 set/100 scaling → 20/15 base/30/15 scaling (hit 2)) and have altered angles (361°/80° → 361°/180° (hit 1), 361° (hit 2)). This improves its locking ability, and causes it to connect more reliably with the farthest hitboxes, but less reliably with the closest hitboxes at high percents.
