@@ -50,3 +50,27 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
 * Mario's on-screen appearance emits the Warp Pipe sound effect rather than the jump sound, similar to Smash 64.
 * Mario has two new taunts: one where he turns his back to the camera and gives a thumbs-up while smiling, and another where he happily throws Cappy around in a circle. They replace his previous up and side taunts.
     * Mario performs his down taunt much faster.
+* Mario's right-inputted victory pose has been slightly altered; he jumps much higher, spins around only once, and has a more joyful expression after landing on the ground.
+
+## Attributes
+
+* Like all characters, Mario's jumpsquat animation takes 3 frames to complete (down from 5).
+* Mario walks slightly faster (1.1 → 1.155).
+* Mario runs faster (1.6 → 1.76).
+    * Mario's initial dash is significantly faster (1.6 → 1.936).
+* Mario's air speed is faster (1.15 → 1.208).
+* Mario's traction is much higher (0.045 → 0.102), allowing him to punish out of shield more easily.
+* Mario's gravity is slightly lower (0.08715 → 0.087).
+* Forward roll grants less intangibility (frames 4-16 → 4-15).
+* Back roll has more startup with less intangibility (frames 4-16 → 5-16) and more ending lag (FAF 30 → 35).
+* Spot dodge has less ending lag (FAF 27 → 26).
+* Air dodge grants more intangibility (frames 3-27 → 3-29).
+* Air dodge has significantly more ending lag (FAF 33 → 53).
+
+## Ground attacks
+
+* Neutral attack:
+    * Consecutive uses of the first hit of neutral attack are faster (9 → 6 frames).
+    * The first two hits transition into the subsequent hits faster (frame 8 → 5 (hit 1), frame 7 → 6 (hit 2)).
+    * The third hit comes out faster (frame 7 → 3) and goes higher, allowing it to connect better from the first two hits.
+        * However, its total duration remains unchanged, giving it more ending lag.
