@@ -41,5 +41,5 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
 ## Aesthetics
 
 * Due to the aesthetic used in Ultimate, Mario's model features a more subdued color scheme. His eyes and clothing feature greater detailing; the seams on his overalls are more accentuated, and his buttons have a more polished finish. He also has a slightly darker skin tone. Altogether, these changes make him appear virtually identical to his appearance as of Super Mario Odyssey.
-
-   * Mario's standard cap has been replaced by Cappy from Super Mario Odyssey. Cappy's eyes appear during his side taunt and, on occasion, Super Jump Punch, but he otherwise has no effect on gameplay.
+    * Mario's standard cap has been replaced by Cappy from Super Mario Odyssey. Cappy's eyes appear during his side taunt and, on occasion, Super Jump Punch, but he otherwise has no effect on gameplay.
+* Mario's Builder outfit from Super Mario Maker and his Wedding tuxedo and top hat from Super Mario Odyssey are present as alternate costumes. They replace his Wario-inspired costume and his Fire Mario costume.
