@@ -1,2 +1,3 @@
 # SmashMoveset
-Gaming icons clash in the ultimate showdown you can play anytime, anywhere when a new entry in the Super Smash Bros.™ series arrives on the Nintendo Switch™ system!
+
+If you want to read info of other fan Character or create a new Smash Character, then just pull request!
