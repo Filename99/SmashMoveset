@@ -79,3 +79,10 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
     * The first two hits have altered damage values (2.5% → 2.2% (hit 1), 1.5% → 1.7% (hit 2)), resulting in the move dealing slightly less damage in total (8% → 7.9%).
     * The first and third hits have smaller hitboxes (3u/1.5u/4u → 1.2u/1.5u/1.8u (hit 1), 5u/2.5u/2.5u → 4.3u/2.5u/2.6u (hit 3)).
     * The first two hits no longer use set knockback (15/10/15 set/100 scaling → 20/15 base/50/33/20 scaling (hit 1), 18/15/25 set/100 scaling → 20/15 base/30/15 scaling (hit 2)) and have altered angles (361°/80° → 361°/180° (hit 1), 361° (hit 2)). This improves its locking ability, and causes it to connect more reliably with the farthest hitboxes, but less reliably with the closest hitboxes at high percents.
+* Forward tilt:
+    * Forward tilt has a longer hitbox duration (frames 5-6 → 5-7).
+    * It has less ending lag (FAF 31 → 26). Combined with the increased shieldstun for ground attacks, this makes it much safer on shield.
+    * It has much more base knockback (8 → 55), but less knockback scaling (100 → 70). This makes it significantly safer on hit at low percents, but removes its ability to lock, and reduces its KO potential unless the opponent is close to the edge.
+* Up tilt:
+    * Up tilt has an altered animation with the spinning uppercut starting from a higher and closer position, noticeably reducing its range in front of Mario, to the point it can no longer hit most characters on the ground unless they are very close.
+    * Its animation has been reversed, with Mario spinning towards the screen instead of away from it.
