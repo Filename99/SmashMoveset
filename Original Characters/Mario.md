@@ -107,3 +107,37 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
     * Down smash's animation has been altered, resembling both the Sweep Kick move from Super Mario 64, and the break dance Mario performs on the cover of Dance Dance Revolution: Mario Mix.
 
 ## Aerial attacks
+
+* All aerials have less landing lag (10 frames → 6 (neutral), 26 → 17 (forward), 12 → 6 (back, up), 19 → 15 (down)).
+* Neutral aerial:
+    * Neutral aerial auto-cancels later (frame 34 → 39), although it still auto-cancels in a short hop.
+    * The hitbox on the late hit is slightly smaller (3u → 2.8u).
+* Forward aerial:
+    * The removal of teching for grounded meteor smashes improves forward aerial's combo potential onstage, compounded further by its reduced landing lag.
+    * It has a different animation, with Mario punching downward with his opposite hand and twisting around afterwards instead of flipping.
+* Up aerial:
+    * Up aerial has less ending lag (FAF 32 → 31), marginally improving its combo potential.
+    * It auto-cancels earlier (frame 18 → 17).
+    * It has a shorter hitbox duration (frames 4-8 → 4-7).
+* Down aerial:
+    * Down aerial's last hit comes out faster (frame 25 → 23), allowing it to connect better and preventing opponents from air dodging out of it.
+        * However, its total duration remains unchanged, giving it more ending lag.
+    * The move deals more damage (1% → 1.4% (hits 1-5), 5% → 5.5% (hit 6); 10% → 12.5% (total)), with knockback not compensated on the last hit, improving its KO potential.
+    * The looping hits are weight-independent, and no longer use set knockback, instead having more base knockback with minimal knockback scaling (10 set/100 scaling → 50/25 base/15 scaling). This allows for all hits to connect more reliably, preventing opponents from air dodging the last hit.
+    * It can no longer be frame canceled.
+    * The looping hits' vertically lowest hitbox is smaller (5u → 4u). The landing hitbox is also very slightly smaller (4.32u → 4.3u).
+    * The looping hits' middle hitbox has been removed. However, since it didn't cover any more space than the top and low hitboxes together, this makes no practical difference.
+    * The final hit has an altered animation, and the vortex emitted around Mario is larger.
+
+## Throws and other attacks
+
+* Grabs:
+    * All grabs have increased ending lag (FAF 29 → 35 (standing), 36 → 43 (dash), 34 → 37 (pivot)).
+    * Dash and pivot grab have slightly more startup (frame 8 → 9 (dash), 9 → 10 (pivot)).
+    * Dash grab has slightly less range (Z2 offset: 10.6u → 10.4u).
+* Pummel:
+    * Pummel deals more hitlag (5 frames → 14), but has significantly less startup (frame 16 → 1) and ending lag (FAF 24 → 7), shortening its duration.
+    * It deals much less damage (3.25% → 1.3%).
+    * It has a slightly different animation: Mario holds the opponent with one hand, instead of both like in previous installments, maintaining consistency with his grab animation.
+* All of Mario's throws have been altered with more forceful animations.
+* The speed of Mario's throws is no longer weight-dependent. This improves their combo potential on heavyweights, but reduces it on lightweights.
