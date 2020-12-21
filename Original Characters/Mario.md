@@ -141,3 +141,64 @@ Overall, Mario retains all of his strengths from SSB4: his extreme combo ability
     * It has a slightly different animation: Mario holds the opponent with one hand, instead of both like in previous installments, maintaining consistency with his grab animation.
 * All of Mario's throws have been altered with more forceful animations.
 * The speed of Mario's throws is no longer weight-dependent. This improves their combo potential on heavyweights, but reduces it on lightweights.
+* Forward throw:
+    * Forward throw has gained slight combo potential at low percents due to Mario's faster initial dash speed.
+* Its animation has been altered, with Mario turning on the opposite direction faster, but the second half of the spin is slower and he tosses the opponent more exaggeratedly.
+* Back throw:
+    * It has an altered animation before the throw: Mario no longer briefly lets go of the opponent before swinging them. Instead, to make the opponent fall, he lifts them by the feet and positions their legs closer to his chest, and then he swings the oppponent before throwing them away. This altered animation more closely represents a real-life giant swing.
+* Up throw:
+    * Up throw has increased combo ability due to Mario's faster jumpsquat and jump speed.
+    * It has a different animation where Mario faces horizontally rather than towards the screen, and holds the opponent by their chest instead of lifting them on their back before throwing, more closely resembling the Upward Cap Throw from Super Mario Odyssey.
+* Down throw:
+    * Down throw can no longer combo into up tilt except against certain large or tall characters due to the latter's altered hitbox placements, hindering its damage racking potential at low to mid percents.
+    * Mario no longer performs a front flip after throwing the opponent. He also slams the opponent more forcefully and with a single arm instead of two.
+* Edge attack:
+    * Edge attack deals more damage (7% → 9%).
+
+## Special moves
+
+* Fireball:
+    * Fireball has less ending lag (FAF 53 → 50), improving its safety.
+    * It has larger hitboxes (2u (early)/1.8u (clean)/1.6u (late) → 2.4u/2.2u/2u), regaining its hitbox sizes from Brawl and with the early hit's hitboxes matching his younger brother's Fireballs.
+    * It has an increased hitlag multiplier (0.3× → 0.6×), giving Mario more time to follow up.
+    * It has received negative shield damage (0 → -2.5 (clean)/-2 (late)), effectively dealing half its usual damage to shields.
+    * Mario no longer opens his mouth when using Fireball on the ground.
+* Cape:
+    * Cape no longer gives the opponent super armor on hit.
+    * The Cape makes now flinch when used on opponents grabbing the ledge.
+    * The reflective hitbox is smaller, and has been moved forward. As such, it can no longer cover behind Mario, making it less safe to use.
+        * Although, it is easier to reflect projectiles that otherwise would have stopped short of Mario.
+    * The reflective hitbox has more startup with a shorter duration (frame 6-20 → 9-20), although it has a new function causing it to start two frames earlier (frame 7) if a projectile is very close to Mario at the time. This slightly reduces its safety.
+        * In the same circumstances, the entire move loses two frames of startup, allowing the offensive hitbox to come out earlier (on frame 10) and reducing the move's total duration.
+    * It always forces opponents to show their backside while they are using their moves; this even works to characters with mirrored stances, such as another Mario, causing them to turn away from the screen.
+    * It has a new animation where Mario wears the Cape around his neck while using it, akin to its appearance in Super Mario World.
+* Super Jump Punch:
+    * Super Jump Punch's second through fourth hits have two frames in between them as opposed to one, resulting in the move having a slightly longer duration (frame 3/7/8/9/10/12/14 → 3/7/9/11/13/15/17).
+    * The looping hits are weight-independent and can no longer be SDIed, allowing them to connect more reliably.
+    * It sweetspots edges later (frame 11 → 14).
+    * Due to rage being changed to not affect set knockback, the linking hits can no longer KO off the top blast line as easily, removing Mario's low percent KO setups.
+    * The second through sixth hits deal less damage (1% → 0.6%), causing the move to deal less damage overall (13% → 11%).
+    * It has much smaller hitboxes, especially on the first hit (7u/6u → 2.5u/4u (hit 1), 6u/5u → 3u/3.8u (hits 2-4), 5.5u/4.2u → 3u/3.8u (hits 5-6), 10u → 9u (hit 7)).
+    * The last hit has slightly less base knockback (52 → 50).
+    * The window to reverse the move is shorter, no longer being reversible during the first hit. This makes it easier to angle vertically, but harder to recover with when facing away from the stage.
+    * Occasionally, the coins produced from Super Jump Punch will appear as regional coins found in the Metro Kingdom from Super Mario Odyssey. Cappy's eyes appear when this occurs. These coins also have a different sound originating from Super Mario Odyssey.
+    * Super Jump Punch has an altered landing animation where Mario lands on his feet like in Smash 64 and Melee as opposed to his back.
+* F.L.U.D.D.:
+    * F.L.U.D.D. has more range and less ending lag (FAF 75 → 68).
+    * It has increased set knockback (50 → 70).
+    * It can be charge-canceled by jumping or spot dodging.
+    * It has an altered charging animation.
+* Mario Finale:
+    * At the start of Mario Finale, opponents are slowed down more and for longer.
+    * Mario Finale has less knockback than it did before, where it used to drag opponents far to the side at low percents or KO opponents at around 30%. Because of this change, it KOs later than before, requiring the opponent to be at 55% or higher.
+    * Mario sports an angrier expression than in previous games when unleashing the move.
+    * Damage from each hit is dealt solely based on how long the attack has been out, with the fireballs becoming more powerful as the attack continues. This makes the front fireball weaker early during the Final Smash, but the back fireball stronger later during it.
+
+# Update history
+
+Mario has been slightly buffed overall via game updates. Dash attack's launch angle has been lowered, improving its ability to set up edgeguards. Mario Finale has also seen some slight buffs as well. Although Fireball was affected by the near-universal nerf of projectiles' shield damage outputs, this has a very minimal effect on Mario's competitive viability.
+
+## 2.0.0
+
+* Dash attack launches at a lower angle (60° (clean)/58° (late) → 50°/48°), improving its ability to setup edgeguards.
+* Mario Finale's Final Smash Meter version has a higher knockback multiplier (0.9× → 0.91×).
