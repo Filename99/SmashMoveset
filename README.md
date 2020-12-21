@@ -1,3 +1,3 @@
 # SmashMoveset
 
-If you want to read info of other fan Character or create a new Smash Character, then just pull request!
+This repository is created for fan Smash fighters. If you want to create a new Smash Character, then just pull request!
